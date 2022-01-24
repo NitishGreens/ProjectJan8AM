@@ -15,4 +15,8 @@ public class Employee {
 		System.out.println("subraction");
 	}
 
+	public void mul() {
+		System.out.println("multiplication");
+	}
+
 }
