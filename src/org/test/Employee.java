@@ -11,6 +11,10 @@ public class Employee {
 		e.add();
 	}
 
+	public void sub() {
+		System.out.println("subraction");
+	}
+
 	public void mul() {
 		System.out.println("multiplication");
 	}
